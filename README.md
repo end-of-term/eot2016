@@ -7,7 +7,7 @@ For the End of Term 2016 web archive, the Library of Congress, the Internet Arch
 # Collecting Scope
 The End of Term Web Archive contains federal government websites (.gov, .mil, government websites not on the .gov domain, government social media accounts, public-nominated government sites, etc.) in the Legislative, Executive, or Judicial branches of the government. Local or state government websites or any other sites not part of the federal government domain are considered out of scope; however, some websites exist in a liminal space that makes "official" federal status hard to determine. The website seed lists published in this repository represent the full extent of the sites selected for archiving.
 
-The project also solicits public nominations of websites to include in the archive. The online nomination tool for 2016 can be found at "[End of Term 2016 Nomination Tool](http://digital2.library.unt.edu/nomination/eth2016_bulk/)". 
+The project also solicits public nominations of websites to include in the archive. The online nomination tool for 2016 can be found at [End of Term 2016 Nomination Tool](http://digital2.library.unt.edu/nomination/eth2016_bulk/). 
 
 # Project Scope
 The project has two phases: A broad, comprehensive baseline crawl of identified websites and more selective, focused crawls based on priorities established by the partners.
@@ -16,8 +16,8 @@ The project has two phases: A broad, comprehensive baseline crawl of identified 
 **Prioritized Crawl** - The project team is calling upon government information specialists, including librarians, political and social science researchers, and academics to assist in the selection and prioritization of the selected web sites to be included in the collection, as well as identifying the frequency and depth of collecting. The schedule for crawling of the prioritized URLs will be distributed across the project eam and announced as the project gets underway.
 
 # Access
-* The "[End of Term Web Archive](http://eotarchive.cdlib.org/index.html) portal provides access to archived sites collected as part of the project.
-* The online nomination tool for 2016 can be found at "[End of Term 2016 Nomination Tool](http://digital2.library.unt.edu/nomination/eth2016_bulk/)".
+* The [End of Term Web Archive](http://eotarchive.cdlib.org/index.html) portal provides access to archived sites collected as part of the project.
+* The online nomination tool for 2016 can be found at [End of Term 2016 Nomination Tool](http://digital2.library.unt.edu/nomination/eth2016_bulk/).
 
 # Presentations & Papers
 * 2016-07-17: "[Harvesting Democracy: Archiving Federal Government Web Content at End of Term](https://docs.google.com/presentation/d/17-VoM_8ykrWdX-ys-L66xedPwTcQBVsdcW-kQdfVoDc/edit#slide=id.g153e4cbb38_0_0)" at [American Association of Law Libraries 2016 Conference](https://web.archive.org/web/20160920095335/http://www.aallnet.org/mm/Education/aall2go/amrecordings/aall2016/aall16a7.html).
